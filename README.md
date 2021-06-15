@@ -5,11 +5,11 @@ Online email template builder using react-email-editor package
 ## TECH USED
 
 Shopify Partners OAuth <br/>
-MERN => MongoDB, Express, React, Node/
-mongoose/
-axios/
-dotenv/
-cookie/
-styled-components/
-uuid:v4/
+MERN => MongoDB, Express, React, Node<br/>
+mongoose<br/>
+axios<br/>
+dotenv<br/>
+cookie<br/>
+styled-components<br/>
+uuid:v4<br/>
 
