@@ -4,7 +4,7 @@ Online email template builder using react-email-editor package
 
 ## TECH USED
 
-Shopify Partners OAuth/
+Shopify Partners OAuth <br/>
 MERN => MongoDB, Express, React, Node/
 mongoose/
 axios/
